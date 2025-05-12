@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @slleepyTea
 - 👀 I’m interested in DEFI and Web3 Development
+- 🧩 I enjoy looking at things in the real World and adding my own abstractions to them. 
 - 🌱 I’m currently learning Enterprise Software Development
 - 💞️ I’m looking to collaborate on DEFI and WEb3 projects
 - 📫 How to reach me shoot me a message here on github
